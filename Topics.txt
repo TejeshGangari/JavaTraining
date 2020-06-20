@@ -1,0 +1,57 @@
+JVM, JRE and JDK
+Creating a Java project
+How to create a Class file
+Primitive Data Types
+What is a Class
+What is an Objects
+What is a Method
+what is a parameterised method
+What is main Method
+
+
+Test.java -> Test.class -> JVM(Java Virtual Machine) - JRE(Java Runtime Environment)
+
+Oracle - JRE or JDK(Java Development Kit)
+
+JDK
+	JRE
+		JVM
+		
+Compile once and execute on multiple platforms
+JVM for Windows JVM for MAC JVM for Linux
+
+Student Management System
+	Create a Student
+	Update Studnet information
+	Display Student information
+
+Student - Object
+
+Class:
+Attributes - Data members/Variables
+	Name
+	Age
+	College
+Behaviour - Methods
+	Goes to college
+	Attempt exams
+
+Data Types: Primitive Data Types
+	byte - 
+	short - Small integers
+	int - 2
+	long - Largest integers
+	float - 3.17f
+	double - Largest Float numbers
+	char - 'A'
+	boolean - T or F
+	String - Class
+Method:
+	AccessModifier returnType methodName()
+	Ex: public void goesToCollege()
+	
+How many ways to create an Object:
+	Using new keyword along with Constructor
+	Object cloning
+	Using Reflection API
+	Deserialization
